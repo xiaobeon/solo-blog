@@ -10,6 +10,7 @@ Soft 测试
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.xiaobeon.com/my-github-repos)
 * [new](http://www.xiaobeon.com/articles/2019/10/23/1571833168872.html)
 * [世界，你好！](http://www.xiaobeon.com/hello-solo)
 
